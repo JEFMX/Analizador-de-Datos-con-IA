@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>cer.png</file>
+    <file>check-square.svg</file>
+    <file>file-text.svg</file>
+    <file>check.svg</file>
+    <file>x.svg</file>
+  </qresource>
+</RCC>
